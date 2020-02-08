@@ -1,6 +1,6 @@
 # DhGate
 DH Gate online sales product description model as following:
-
+<!--this is only used for DH Gate online sells store-->
 <style type="text/css" _ue_org_tagname="style">
 *{ padding:0; margin:0;}
 .product-details{ width:960px; margin:0 auto; overflow:hidden; padding-top:15px; padding-bottom:70px; color:#800080; font:18px/1.5em Arial, Helvetica, sans-serif;}
